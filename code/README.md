@@ -1,6 +1,7 @@
 # CENG 435 Take Home Exam 1 Report
+Group 60
 Group Members:
-Nevzat Altay Yücetaş - 2540367
+Nevzat Altay Yücetaş - 2540367 <br/>
 Yiğit Alp Alakoç - 2580207
 # About SCAPY
 
